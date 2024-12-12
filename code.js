@@ -1,1 +1,1 @@
-console.log("a");
+var t = 2;
